@@ -1,0 +1,4 @@
+name: private
+ 
+rules:
+  - DOMAIN-SUFFIX,micu.hk,DIRECT

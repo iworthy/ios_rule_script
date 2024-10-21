@@ -2,10 +2,3 @@ name: private
  
 rules:
   - DOMAIN-SUFFIX,micu.hk,DIRECT
-
-name: tailscale
-type: direct
-interface-name: utun9
-
-rules:
-  - IP-CIDR,100.0.0.0/24,tailscale
